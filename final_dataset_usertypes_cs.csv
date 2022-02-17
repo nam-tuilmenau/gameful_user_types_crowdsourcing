@@ -1,0 +1,482 @@
+"","gender","age","continent","highest_degree","current_employment","check","platform","philanthropist","socialiser","free_spirit","achiever","disruptor","player","mean_score"
+"1","Male","26-40","America","Bachelor","Full time","A few times a week","MTurk",19,19,19,18,18,20,0.716227766016838
+"2","Male","26-40","America","High school","Full time","A few times a week","MTurk",18,18,18,23,19,20,0.795533118756597
+"3","Male","18-25","Asia","Bachelor","Full time","Once a day","MTurk",24,28,23,15,20,24,0.8
+"4","Male","Over 40","Europe","Bachelor","Part time","Several times a day","Microworkers",27,26,26,25,19,24,0.951185789203691
+"5","Male","18-25","America","Bachelor","Full time","A few times a week","MTurk",20,17,19,23,22,20,0.93228756555323
+"6","Male","26-40","America","Bachelor","Full time","Once a day","Microworkers",19,15,17,19,9,20,0.91
+"7","Male","26-40","Asia","Bachelor","Full time","Several times a day","MTurk",26,24,25,24,21,25,0.91
+"8","Male","Over 40","America","Bachelor","Full time","Several times a day","MTurk",24,20,24,23,18,23,0.461165231038674
+"9","Male","26-40","America","Bachelor","Unemployed","Several times a day","Microworkers",28,22,21,24,18,28,0.775141149680191
+"10","Male","26-40","America","Bachelor","Full time","Hardly ever","MTurk",18,21,18,20,24,21,0.579051491835104
+"11","Male","18-25","Asia","Master","Part time","Several times a day","Microworkers",27,24,24,26,24,25,0.958113883008419
+"12","Male","26-40","Asia","Bachelor","Part time","Several times a day","Microworkers",28,28,28,25,12,26,0.758113883008419
+"13","Male","26-40","Asia","Bachelor","Full time","Once a day","MTurk",24,27,26,25,25,26,1
+"14","Female","26-40","Asia","Bachelor","Full time","A few times a week","Microworkers",27,27,28,27,25,28,0.8
+"15","Female","26-40","Asia","Master","Part time","Once a day","Microworkers",27,24,24,24,25,25,1
+"16","Male","26-40","Asia","Bachelor","Full time","Once a day","MTurk",22,23,25,22,24,23,0.918113883008419
+"17","Female","18-25","Asia","Bachelor","Full time","Once a day","MTurk",26,23,22,25,23,24,0.658778671959965
+"18","Female","Over 40","America","Bachelor","Retired","Once a day","Microworkers",26,27,23,25,12,26,1
+"19","Male","26-40","America","Master","Part time","A few times a week","Microworkers",25,26,25,25,26,24,0.916227766016838
+"20","Male","26-40","America","Bachelor","Full time","Once a day","MTurk",27,25,25,28,10,26,0.804127850348593
+"21","Male","Over 40","Asia","Bachelor","Part time","Several times a day","Microworkers",27,28,25,27,20,27,0.919522860933439
+"22","Male","18-25","Asia","Bachelor","Full time","Once a day","MTurk",22,16,22,20,20,23,0.789522860933439
+"23","Female","18-25","Asia","High school","Full time","Several times a day","Microworkers",27,27,27,26,21,27,0.816892554968384
+"24","Male","26-40","America","Bachelor","Full time","A few times a week","Microworkers",28,28,26,25,17,28,1
+"25","Female","18-25","Asia","Master","Part time","Several times a day","Microworkers",24,25,26,22,15,23,0.737835613464174
+"26","Female","18-25","America","Bachelor","Full time","A few times a week","MTurk",18,23,24,21,23,20,0.93228756555323
+"27","Female","18-25","Asia","Bachelor","Full time","Several times a day","MTurk",24,24,23,24,23,25,0.804127850348593
+"28","Male","18-25","America","High school","Unemployed","Several times a day","Microworkers",25,27,27,28,27,27,0.674590060260807
+"29","Male","18-25","Asia","Bachelor","Full time","Several times a day","Microworkers",26,26,26,27,25,25,0.763910342154913
+"30","Male","Over 40","America","Bachelor","Full time","Once a day","MTurk",24,24,24,24,19,24,1
+"31","Male","Over 40","America","Bachelor","Full time","Once a day","MTurk",27,25,27,25,24,23,0.85373217175517
+"32","Female","26-40","America","Master","Full time","Once a day","MTurk",17,15,15,16,17,17,0.665329554211948
+"33","Male","18-25","Asia","High school","Part time","Several times a day","Microworkers",28,23,27,28,19,27,0.758113883008419
+"34","Female","26-40","Asia","Bachelor","Full time","Once a day","MTurk",25,25,22,25,23,25,0.690401448561648
+"35","Female","26-40","Europe","High school","Part time","Several times a day","Microworkers",18,18,19,20,11,16,1
+"36","Male","26-40","Asia","Master","Full time","Once a day","Microworkers",12,8,10,6,11,7,0.958113883008419
+"37","Male","18-25","Asia","High school","Part time","Several times a day","Microworkers",27,28,25,27,15,25,0.926491106406735
+"38","Female","26-40","Asia","Bachelor","Unemployed","Once a day","Microworkers",27,27,27,27,25,28,0.709045721866879
+"39","Female","26-40","America","Master","Full time","Once a day","MTurk",13,20,13,15,16,18,0.846491106406735
+"40","Female","26-40","Asia","Bachelor","Part time","Once a day","Microworkers",27,28,28,26,23,28,0.831622776601684
+"41","Female","18-25","Africa","Bachelor","Full time","Several times a day","Microworkers",24,25,25,23,13,25,0.858778671959965
+"42","Male","26-40","Asia","Bachelor","Full time","Once a day","MTurk",24,24,25,24,23,26,0.75228756555323
+"43","Female","26-40","Asia","Bachelor","Full time","Several times a day","MTurk",23,26,24,24,27,26,0.740223278161906
+"44","Male","18-25","Asia","Bachelor","Full time","Once a day","MTurk",22,21,22,23,23,22,0.690401448561648
+"45","Male","26-40","America","Bachelor","Full time","Several times a day","MTurk",28,26,25,28,11,28,0.846013967340175
+"46","Male","18-25","Asia","Bachelor","Full time","Several times a day","Microworkers",26,25,28,28,9,20,0.790401448561649
+"47","Male","18-25","Asia","Master","Full time","Several times a day","Microworkers",27,25,27,26,13,26,0.851810426486669
+"48","Male","26-40","Asia","High school","Part time","Several times a day","Microworkers",27,28,28,28,27,27,0.864575131106459
+"49","Male","26-40","Asia","Master","Full time","Once a day","Microworkers",19,16,16,19,13,13,0.926491106406735
+"50","Female","18-25","Europe","Bachelor","Unemployed","Several times a day","Microworkers",24,20,21,23,23,21,0.642302494707577
+"51","Female","26-40","Asia","Master","Full time","A few times a week","MTurk",22,22,25,25,21,22,1
+"52","Male","26-40","Asia","Bachelor","Full time","Once a day","MTurk",23,20,19,21,20,19,0.7
+"53","Male","26-40","Asia","Master","Full time","Several times a day","Microworkers",28,26,28,27,18,26,0.867413555220529
+"54","Male","18-25","Asia","High school","Unemployed","Once a day","Microworkers",28,28,23,26,18,28,0.884604989415154
+"55","Female","26-40","America","Bachelor","Part time","Once a day","MTurk",23,24,19,24,21,22,0
+"56","Male","26-40","Asia","Master","Part time","Several times a day","Microworkers",27,26,23,19,17,22,0.918113883008419
+"57","Female","26-40","Asia","Bachelor","Part time","Several times a day","Microworkers",25,25,22,26,12,24,0.926491106406735
+"58","Male","18-25","Europe","High school","Part time","A few times a week","Microworkers",23,20,20,21,15,21,0.87
+"59","Female","26-40","America","Bachelor","Full time","Several times a day","MTurk",18,16,16,19,15,22,1
+"60","Male","18-25","Asia","Bachelor","Unemployed","Several times a day","Microworkers",24,25,24,25,25,24,0.71
+"61","Female","26-40","Africa","Bachelor","Unemployed","Hardly ever","Microworkers",28,28,23,22,16,28,0.93228756555323
+"62","Male","18-25","Africa","Bachelor","Part time","Several times a day","Microworkers",28,28,28,28,10,28,1
+"63","Female","18-25","Asia","Bachelor","Full time","Once a day","MTurk",27,24,24,24,23,24,0.228449162468305
+"64","Male","26-40","America","Master","Full time","Once a day","MTurk",20,25,20,22,20,23,0.726491106406735
+"65","Male","Over 40","America","Bachelor","Full time","Once a day","MTurk",24,24,23,24,19,24,0.895618288746752
+"66","Female","18-25","Asia","Bachelor","Unemployed","Hardly ever","Microworkers",28,28,28,28,25,28,0.926491106406735
+"67","Male","26-40","Asia","Master","Full time","A few times a week","MTurk",26,26,25,25,21,24,1
+"68","Female","18-25","Asia","Bachelor","Unemployed","Several times a day","Microworkers",27,24,27,24,22,25,0.755353791220852
+"69","Female","26-40","Asia","Bachelor","Full time","Once a day","MTurk",26,22,24,27,23,22,0.595533118756597
+"70","Male","26-40","Asia","High school","Part time","A few times a week","Microworkers",25,22,23,24,16,19,0.589458390065858
+"71","Male","26-40","Africa","Bachelor","Part time","Several times a day","Microworkers",28,28,24,27,14,26,0.902371578407382
+"72","Male","26-40","Asia","Bachelor","Full time","A few times a week","MTurk",22,21,22,23,23,22,0.80228756555323
+"73","Female","26-40","America","High school","Part time","Several times a day","Microworkers",28,28,28,28,10,28,0.919522860933439
+"74","Male","26-40","America","Bachelor","Full time","Several times a day","Microworkers",27,27,25,25,21,28,0.958113883008419
+"75","Female","18-25","Asia","Bachelor","Part time","Several times a day","Microworkers",28,28,27,23,10,22,0.858113883008419
+"76","Male","18-25","Asia","Bachelor","Full time","Several times a day","MTurk",22,21,22,23,23,22,0.726491106406735
+"77","Male","18-25","America","Bachelor","Full time","Once a day","MTurk",21,19,20,17,23,22,0.851810426486669
+"78","Female","18-25","Asia","Master","Full time","Several times a day","Microworkers",28,28,28,28,16,28,0.879056941504209
+"79","Male","18-25","America","Bachelor","Unemployed","Several times a day","Microworkers",23,24,24,22,23,22,0.93228756555323
+"80","Male","Over 40","Europe","High school","Retired","Several times a day","Microworkers",22,21,20,20,13,23,1
+"81","Female","Over 40","America","Bachelor","Part time","A few times a week","MTurk",17,18,20,16,13,18,0.837170824512628
+"82","Male","18-25","Africa","Bachelor","Part time","Several times a day","Microworkers",26,25,25,23,14,24,0.591622776601684
+"83","Male","18-25","America","Bachelor","Part time","Several times a day","Microworkers",25,26,28,23,19,27,0.93228756555323
+"84","Male","26-40","Asia","Master","Full time","A few times a week","MTurk",24,25,26,21,24,24,0.958113883008419
+"85","Male","26-40","Asia","Master","Full time","Several times a day","Microworkers",26,28,27,24,24,24,0.524411889861064
+"86","Female","26-40","Asia","Bachelor","Unemployed","Once a day","Microworkers",24,25,25,24,22,22,0.535755291299481
+"87","Male","26-40","Asia","Bachelor","Part time","A few times a week","MTurk",16,16,19,15,12,22,0.658778671959965
+"88","Female","18-25","Asia","Bachelor","Unemployed","Several times a day","Microworkers",26,25,17,25,19,22,0.8302427307079
+"89","Male","26-40","America","Bachelor","Unemployed","Several times a day","Microworkers",28,28,24,28,6,24,0.877636743941858
+"90","Female","26-40","Asia","Bachelor","Full time","Several times a day","Microworkers",26,26,27,28,16,28,0.811344507057439
+"91","Male","26-40","Asia","Bachelor","Part time","Several times a day","Microworkers",27,28,28,25,25,26,1
+"92","Male","18-25","America","High school","Unemployed","Several times a day","Microworkers",25,23,22,26,9,24,0.750401448561648
+"93","Male","26-40","Asia","Bachelor","Full time","Several times a day","Microworkers",25,24,22,24,15,24,0.809924309495088
+"94","Female","26-40","America","Master","Full time","Once a day","MTurk",26,23,22,25,25,24,0.758113883008419
+"95","Male","Over 40","America","Master","Full time","Several times a day","MTurk",26,23,25,25,19,26,0.731359436211787
+"96","Female","Over 40","America","Bachelor","Part time","Once a day","MTurk",26,24,24,23,19,22,0.91
+"97","Male","26-40","America","Master","Full time","Once a day","MTurk",27,24,24,23,24,24,0.804127850348593
+"98","Female","26-40","Asia","High school","Full time","Hardly ever","Microworkers",28,28,27,22,11,27,1
+"99","Male","26-40","America","Bachelor","Full time","Several times a day","MTurk",4,6,6,6,4,4,0.71
+"100","Male","18-25","Africa","Bachelor","Full time","Once a day","Microworkers",26,25,23,27,16,25,0.591622776601684
+"101","Female","26-40","Africa","Bachelor","Full time","Several times a day","Microworkers",28,28,25,25,9,26,0.919522860933439
+"102","Female","26-40","Asia","High school","Full time","Several times a day","Microworkers",27,27,26,26,26,26,0.782808565805375
+"103","Male","18-25","Asia","Bachelor","Full time","Several times a day","MTurk",24,23,24,25,23,22,0.8
+"104","Male","18-25","Asia","Bachelor","Full time","Once a day","MTurk",26,25,25,26,23,26,0.69228756555323
+"105","Male","18-25","Asia","High school","Part time","Several times a day","Microworkers",24,21,22,19,21,23,0.690401448561648
+"106","Male","26-40","America","Bachelor","Full time","A few times a week","MTurk",16,14,13,13,13,13,0.722024225163332
+"107","Female","18-25","Asia","Bachelor","Part time","Once a day","Microworkers",24,20,24,23,16,22,0.846013967340175
+"108","Male","18-25","America","Bachelor","Full time","Several times a day","MTurk",23,25,26,24,25,23,0.246491106406735
+"109","Male","26-40","Asia","Bachelor","Full time","A few times a week","MTurk",23,24,25,22,23,24,0.733874803318569
+"110","Female","26-40","Asia","Bachelor","Full time","Once a day","MTurk",24,23,22,19,21,20,0.507170824512628
+"111","Male","26-40","America","Bachelor","Full time","Several times a day","MTurk",19,22,22,19,23,22,0.736491106406735
+"112","Female","Over 40","America","Bachelor","Full time","A few times a week","MTurk",24,20,23,23,20,20,0.87
+"113","Male","26-40","Asia","Bachelor","Full time","Several times a day","MTurk",27,27,26,24,16,24,0.877676895610426
+"114","Male","26-40","Asia","Master","Full time","Once a day","Microworkers",25,28,28,28,10,28,0.76253029626113
+"115","Female","26-40","Asia","Bachelor","Part time","Several times a day","Microworkers",27,26,25,27,21,28,0.926491106406735
+"116","Male","18-25","Asia","Bachelor","Full time","Several times a day","Microworkers",28,27,27,27,22,28,0.755284707521047
+"117","Male","26-40","Asia","Bachelor","Full time","Once a day","MTurk",24,26,25,24,25,22,0.918113883008419
+"118","Female","18-25","Asia","Master","Unemployed","Once a day","Microworkers",27,27,28,27,24,24,0.96
+"119","Female","26-40","Asia","Bachelor","Full time","Several times a day","Microworkers",28,28,28,23,17,28,0.958113883008419
+"120","Female","26-40","America","Bachelor","Full time","Once a day","MTurk",23,16,23,23,21,19,0.918113883008419
+"121","Male","26-40","America","Master","Full time","Several times a day","MTurk",22,24,23,23,22,24,1
+"122","Male","18-25","Africa","Bachelor","Part time","Several times a day","Microworkers",26,28,28,27,17,27,1
+"123","Female","26-40","Asia","Bachelor","Part time","Several times a day","Microworkers",28,28,27,27,25,27,0.884604989415154
+"124","Male","18-25","Asia","Bachelor","Full time","Once a day","MTurk",22,21,22,23,23,22,0.829522860933439
+"125","Male","18-25","Asia","Bachelor","Unemployed","Once a day","Microworkers",24,28,28,26,16,28,1
+"126","Male","26-40","Asia","Bachelor","Full time","A few times a week","MTurk",22,25,24,25,25,22,0.712084001008581
+"127","Male","26-40","Asia","Bachelor","Full time","Several times a day","Microworkers",22,20,20,21,22,19,0.718113883008419
+"128","Male","Over 40","America","Bachelor","Full time","Several times a day","MTurk",28,28,27,28,8,28,0.926491106406735
+"129","Male","18-25","America","High school","Unemployed","Several times a day","Microworkers",28,22,25,26,11,28,0.832287565553229
+"130","Female","18-25","America","High school","Part time","Several times a day","Microworkers",24,22,18,21,14,20,1
+"131","Male","18-25","Asia","Bachelor","Part time","Several times a day","Microworkers",26,28,26,23,16,23,0.76373217175517
+"132","Female","26-40","Asia","Bachelor","Part time","Hardly ever","Microworkers",28,28,27,27,17,28,0.777636743941858
+"133","Male","26-40","Asia","Bachelor","Full time","Once a day","MTurk",27,24,24,23,24,22,0.71
+"134","Female","26-40","America","Master","Full time","A few times a week","MTurk",24,19,25,15,20,16,0.758113883008419
+"135","Male","18-25","Africa","Bachelor","Part time","Several times a day","Microworkers",28,28,28,25,17,28,0.879522860933439
+"136","Male","18-25","America","High school","Unemployed","Several times a day","Microworkers",27,22,26,28,11,26,0.926491106406735
+"137","Male","18-25","America","Bachelor","Full time","Several times a day","MTurk",26,23,22,23,22,25,0.611846054763589
+"138","Male","26-40","America","Bachelor","Full time","A few times a week","MTurk",25,24,25,23,25,24,0.677676895610426
+"139","Male","26-40","Europe","Bachelor","Full time","A few times a week","Microworkers",27,27,26,28,13,25,1
+"140","Female","26-40","Asia","Bachelor","Part time","Once a day","Microworkers",24,24,23,22,13,21,1
+"141","Male","18-25","Asia","High school","Full time","Several times a day","Microworkers",27,25,28,28,24,23,0.90929967221211
+"142","Male","18-25","Asia","Bachelor","Unemployed","A few times a week","Microworkers",28,26,27,26,24,26,0.726491106406735
+"143","Male","26-40","America","Bachelor","Full time","Once a day","MTurk",25,26,24,25,26,24,0.9
+"144","Male","26-40","Asia","Master","Full time","Several times a day","MTurk",24,27,24,23,19,25,0.87
+"145","Female","26-40","America","Bachelor","Full time","Once a day","MTurk",26,23,25,24,17,21,0.835790778618845
+"146","Male","26-40","America","High school","Full time","Several times a day","MTurk",19,14,20,18,15,20,1
+"147","Male","26-40","America","Bachelor","Full time","Several times a day","MTurk",25,23,23,19,13,20,0.884604989415154
+"148","Male","18-25","Africa","Bachelor","Full time","Once a day","Microworkers",23,22,21,19,13,19,0.846013967340175
+"149","Female","26-40","America","Bachelor","Full time","A few times a week","MTurk",28,28,27,25,7,28,0.52373217175517
+"150","Male","26-40","Africa","Master","Full time","Once a day","Microworkers",28,24,24,27,9,26,0.958113883008419
+"151","Male","26-40","America","Bachelor","Full time","A few times a week","MTurk",24,20,24,23,16,24,0.722109395153487
+"152","Female","18-25","America","High school","Unemployed","Several times a day","Microworkers",25,25,22,24,7,21,0.858778671959965
+"153","Female","18-25","Asia","Bachelor","Unemployed","Once a day","Microworkers",28,27,28,26,19,24,1
+"154","Female","26-40","Asia","Bachelor","Unemployed","Hardly ever","Microworkers",26,24,25,24,21,24,0.751810426486669
+"155","Male","18-25","Asia","Bachelor","Full time","A few times a week","MTurk",22,24,21,14,19,24,0.6
+"156","Female","26-40","Asia","Bachelor","Part time","Once a day","Microworkers",26,27,24,20,18,24,0.75228756555323
+"157","Male","26-40","Asia","Master","Full time","A few times a week","MTurk",27,26,23,23,25,22,1
+"158","Male","18-25","Asia","Bachelor","Unemployed","A few times a week","Microworkers",25,25,22,27,10,24,0.828113883008419
+"159","Female","26-40","America","Bachelor","Full time","Once a day","MTurk",24,21,22,23,15,20,0.758113883008419
+"160","Male","18-25","America","Bachelor","Full time","A few times a week","MTurk",25,22,24,19,20,22,0.89228756555323
+"161","Male","26-40","Asia","Bachelor","Full time","Several times a day","Microworkers",24,25,25,24,16,24,0.9
+"162","Female","26-40","Asia","Bachelor","Unemployed","Several times a day","Microworkers",25,24,24,26,22,25,0.775592894601845
+"163","Female","18-25","America","High school","Part time","Several times a day","Microworkers",20,19,17,21,16,18,0.958113883008419
+"164","Female","26-40","Asia","Bachelor","Unemployed","Once a day","Microworkers",22,23,22,23,17,20,0.87
+"165","Female","18-25","Asia","High school","Full time","Several times a day","Microworkers",27,26,25,26,25,26,0.732287565553229
+"166","Not said","26-40","Asia","High school","Unemployed","Several times a day","MTurk",24,22,24,24,15,23,0.835750626950277
+"167","Male","Over 40","America","Master","Full time","A few times a week","MTurk",22,23,23,21,23,22,0.858778671959965
+"168","Female","18-25","America","Bachelor","Full time","Once a day","MTurk",22,26,21,23,14,23,0.734675230250961
+"169","Male","26-40","Asia","Master","Full time","A few times a week","MTurk",25,24,24,23,21,27,0.895618288746752
+"170","Female","26-40","Asia","Bachelor","Full time","Several times a day","MTurk",20,20,25,21,14,22,0.958113883008419
+"171","Male","26-40","Africa","Ph.D.","Full time","Several times a day","Microworkers",24,24,22,22,10,20,0.709259520543542
+"172","Male","26-40","Asia","Bachelor","Full time","Once a day","MTurk",26,24,25,25,24,27,0.851810426486669
+"173","Female","Over 40","Asia","Bachelor","Part time","Several times a day","Microworkers",28,28,27,27,10,27,0.871428571428571
+"174","Male","18-25","America","Master","Part time","Several times a day","Microworkers",26,23,25,28,17,28,0.725256740151276
+"175","Male","26-40","America","Bachelor","Part time","Several times a day","Microworkers",25,18,24,21,11,27,0.926491106406735
+"176","Male","18-25","Asia","Bachelor","Part time","Several times a day","Microworkers",27,26,27,24,8,26,0.868113883008419
+"177","Male","18-25","America","Master","Part time","Several times a day","Microworkers",15,14,14,16,16,13,0.662331426738814
+"178","Female","26-40","Asia","High school","Part time","Several times a day","Microworkers",23,23,24,22,20,25,0.537835613464174
+"179","Male","18-25","Africa","Bachelor","Part time","Several times a day","Microworkers",26,24,25,27,8,22,0.831622776601684
+"180","Male","18-25","Asia","Bachelor","Full time","Several times a day","MTurk",26,23,24,23,23,26,0.719522860933439
+"181","Male","18-25","America","High school","Unemployed","Several times a day","Microworkers",26,20,25,26,19,25,0.958113883008419
+"182","Female","26-40","Asia","Bachelor","Full time","Several times a day","Microworkers",25,23,25,26,26,24,0.661165231038674
+"183","Male","26-40","Asia","Bachelor","Full time","Once a day","MTurk",24,23,22,23,23,22,0.87
+"184","Female","18-25","Asia","Bachelor","Part time","Once a day","MTurk",26,24,27,26,22,23,0.822109395153487
+"185","Female","26-40","Asia","Master","Full time","A few times a week","Microworkers",27,24,23,26,13,27,0.868113883008419
+"186","Male","18-25","Asia","High school","Unemployed","Several times a day","Microworkers",25,26,23,24,21,24,0.2
+"187","Male","26-40","Asia","Bachelor","Full time","Once a day","MTurk",27,25,24,25,22,26,0.63000837386622
+"188","Male","18-25","Asia","High school","Part time","Several times a day","Microworkers",25,27,24,24,8,24,0.67
+"189","Male","26-40","Asia","High school","Full time","Once a day","Microworkers",19,19,19,18,20,17,0.795284707521047
+"190","Not said","Over 40","Asia","Bachelor","Unemployed","Hardly ever","Microworkers",23,23,22,21,13,24,0.855618288746751
+"191","Male","18-25","Africa","High school","Unemployed","A few times a week","Microworkers",27,25,21,24,12,24,1
+"192","Female","26-40","Asia","Bachelor","Unemployed","A few times a week","Microworkers",25,24,24,16,16,20,0.740168025708304
+"193","Female","18-25","America","High school","Part time","Once a day","Microworkers",26,28,27,28,28,28,0.778113883008419
+"194","Male","18-25","Asia","Bachelor","Part time","Several times a day","Microworkers",28,28,28,28,12,26,1
+"195","Female","26-40","Asia","Master","Full time","Once a day","Microworkers",28,27,28,26,26,25,0.728862684814117
+"196","Male","18-25","Asia","Bachelor","Full time","Once a day","MTurk",22,21,22,23,23,22,0.658113883008419
+"197","Female","26-40","Asia","Bachelor","Part time","Several times a day","Microworkers",22,22,26,25,15,22,0.605273487883717
+"198","Female","18-25","Asia","Bachelor","Part time","Hardly ever","Microworkers",28,28,28,28,27,28,1
+"199","Female","26-40","America","High school","Unemployed","Several times a day","Microworkers",28,23,25,27,9,22,0.87070865013713
+"200","Male","26-40","Europe","Bachelor","Full time","A few times a week","MTurk",25,20,27,19,24,24,0.537835613464174
+"201","Female","26-40","Asia","Bachelor","Part time","Several times a day","Microworkers",28,28,28,28,26,28,0.677636743941858
+"202","Male","26-40","America","Bachelor","Full time","Several times a day","MTurk",28,28,28,25,16,16,0.455135349038836
+"203","Female","18-25","Asia","Master","Unemployed","A few times a week","Microworkers",27,28,28,28,20,28,0.663154933544108
+"204","Female","26-40","Asia","Master","Full time","Several times a day","Microworkers",28,28,28,28,10,28,0.675548047910945
+"205","Male","26-40","Asia","Bachelor","Full time","A few times a week","MTurk",26,22,27,26,23,22,1
+"206","Female","26-40","Asia","Master","Part time","Hardly ever","Microworkers",28,26,26,27,21,24,0.795115755535285
+"207","Female","26-40","Asia","Bachelor","Part time","Once a day","Microworkers",28,28,23,22,15,26,1
+"208","Female","26-40","Asia","Bachelor","Full time","Once a day","MTurk",26,25,26,25,25,26,0.70929967221211
+"209","Male","Over 40","America","Bachelor","Full time","Once a day","MTurk",25,24,24,27,11,28,0.87
+"210","Female","18-25","Asia","Bachelor","Full time","Once a day","MTurk",24,22,21,24,17,24,0.656557275508498
+"211","Male","18-25","America","Bachelor","Part time","A few times a week","Microworkers",26,25,23,26,19,24,0.815141149680191
+"212","Male","18-25","Asia","Bachelor","Part time","Several times a day","MTurk",24,24,23,26,23,23,0.658756364043786
+"213","Male","26-40","Asia","Bachelor","Unemployed","A few times a week","Microworkers",26,22,21,19,17,21,1
+"214","Female","18-25","America","Bachelor","Full time","Once a day","MTurk",20,23,22,19,21,24,0.96
+"215","Female","26-40","Asia","Master","Full time","Several times a day","Microworkers",28,27,25,25,13,24,0.736415415901823
+"216","Female","18-25","America","Bachelor","Full time","A few times a week","MTurk",20,23,23,20,22,24,0.958113883008419
+"217","Female","26-40","Asia","Bachelor","Part time","Several times a day","Microworkers",28,28,27,27,22,28,0.926491106406735
+"218","Female","Over 40","America","Bachelor","Full time","Several times a day","MTurk",19,15,20,13,17,16,0.756013967340175
+"219","Female","Over 40","Asia","Bachelor","Part time","Several times a day","Microworkers",17,17,13,17,15,16,0.447835613464174
+"220","Female","26-40","Asia","Bachelor","Full time","Once a day","MTurk",24,23,21,22,23,22,0.919522860933439
+"221","Male","Over 40","Asia","Bachelor","Part time","Once a day","Microworkers",25,25,18,14,12,20,0.483498748901826
+"222","Female","26-40","Asia","Bachelor","Part time","Several times a day","Microworkers",28,28,26,25,12,28,0.758113883008419
+"223","Female","26-40","America","Bachelor","Full time","Several times a day","MTurk",24,23,23,26,23,23,0.505141149680191
+"224","Female","26-40","Asia","Master","Part time","Hardly ever","Microworkers",28,27,28,28,23,27,0.379056941504209
+"225","Male","26-40","Asia","Bachelor","Full time","Several times a day","Microworkers",27,28,28,23,16,28,0.661185789203691
+"226","Female","26-40","Asia","High school","Unemployed","Once a day","Microworkers",24,25,22,23,24,25,0.690401448561648
+"227","Female","26-40","Asia","Bachelor","Part time","A few times a week","Microworkers",28,28,22,22,6,28,0.798579802437649
+"228","Female","26-40","Asia","Master","Part time","A few times a week","Microworkers",26,23,25,22,19,26,0.695618288746751
+"229","Male","26-40","Asia","Bachelor","Part time","Once a day","MTurk",26,27,26,26,26,26,0.498515331570067
+"230","Male","26-40","Asia","Bachelor","Part time","Several times a day","MTurk",19,16,21,17,14,22,0.789522860933439
+"231","Male","26-40","Asia","Master","Full time","Hardly ever","MTurk",21,23,19,18,16,23,0.799701120773758
+"232","Female","26-40","Asia","Bachelor","Part time","A few times a week","Microworkers",26,23,25,25,23,25,0.726491106406735
+"233","Female","18-25","Asia","Bachelor","Part time","Several times a day","Microworkers",24,25,27,27,19,27,0.87
+"234","Male","26-40","America","Bachelor","Full time","Once a day","MTurk",25,27,26,24,24,25,0.919522860933439
+"235","Male","18-25","Asia","Bachelor","Full time","Once a day","MTurk",19,23,21,20,23,27,0.8
+"236","Female","18-25","Asia","Bachelor","Unemployed","Several times a day","Microworkers",23,25,25,24,15,25,0.750485512932781
+"237","Female","Over 40","America","Master","Full time","Several times a day","MTurk",22,23,22,23,21,24,0.858778671959965
+"238","Female","18-25","Asia","Master","Full time","Hardly ever","Microworkers",26,22,24,25,7,20,0.535998052680511
+"239","Male","26-40","Asia","Bachelor","Full time","A few times a week","MTurk",27,26,26,25,26,26,0.63228756555323
+"240","Male","18-25","America","Bachelor","Full time","A few times a week","Microworkers",22,23,22,23,17,22,0.832287565553229
+"241","Male","26-40","Asia","Master","Full time","Once a day","MTurk",16,16,12,15,15,12,0.633453902210926
+"242","Male","18-25","Asia","Bachelor","Full time","Once a day","MTurk",22,21,22,20,22,22,0.677636743941858
+"243","Male","26-40","Asia","Bachelor","Part time","Hardly ever","Microworkers",27,27,26,26,17,28,1
+"244","Male","18-25","Asia","Bachelor","Unemployed","Several times a day","Microworkers",25,23,24,25,13,26,0.833706777610264
+"245","Male","18-25","Asia","Bachelor","Full time","Once a day","Microworkers",24,28,24,25,16,20,0.670668498468562
+"246","Male","26-40","America","Bachelor","Full time","Hardly ever","MTurk",22,23,21,18,19,19,1
+"247","Female","Over 40","Asia","High school","Unemployed","Once a day","Microworkers",19,19,16,17,14,13,0.795790778618845
+"248","Male","26-40","Asia","Bachelor","Full time","Once a day","MTurk",22,21,22,23,23,22,0.926491106406735
+"249","Male","26-40","America","Master","Full time","A few times a week","MTurk",24,23,23,23,22,22,1
+"250","Male","26-40","Asia","Bachelor","Full time","Once a day","Microworkers",24,26,26,24,13,28,0.919522860933439
+"251","Male","26-40","Africa","Master","Unemployed","Several times a day","Microworkers",28,24,20,23,8,21,0.719522860933439
+"252","Male","18-25","Asia","Bachelor","Full time","Several times a day","MTurk",24,25,24,23,25,24,0.765994343163494
+"253","Male","18-25","America","Bachelor","Part time","Once a day","Microworkers",22,23,22,21,23,20,1
+"254","Male","26-40","America","Master","Full time","Once a day","MTurk",25,23,24,25,27,25,0.8
+"255","Female","26-40","Asia","Bachelor","Unemployed","Several times a day","Microworkers",25,26,28,25,11,22,0.951185789203691
+"256","Female","26-40","Africa","Bachelor","Part time","Several times a day","Microworkers",20,19,18,18,19,17,0.951185789203691
+"257","Female","26-40","Asia","Master","Full time","Hardly ever","Microworkers",28,28,28,22,22,27,1
+"258","Male","26-40","America","Bachelor","Full time","Several times a day","Microworkers",24,26,25,27,22,23,1
+"259","Male","26-40","Asia","Bachelor","Full time","Several times a day","MTurk",24,22,24,28,26,26,0.788047713906656
+"260","Female","18-25","Asia","Bachelor","Full time","Several times a day","Microworkers",26,21,22,20,17,15,0.77325503268861
+"261","Male","18-25","Asia","Bachelor","Full time","Once a day","MTurk",22,23,22,21,21,22,0.732287565553229
+"262","Male","18-25","America","Master","Full time","Several times a day","MTurk",22,24,23,26,24,26,0.846804077950442
+"263",NA,NA,NA,NA,NA,NA,"Microworkers",28,25,25,23,13,23,0.8
+"264","Male","26-40","Asia","Bachelor","Part time","Several times a day","Microworkers",26,28,28,26,24,28,0.85
+"265","Male","26-40","Asia","Bachelor","Full time","A few times a week","MTurk",25,26,25,18,23,26,1
+"266","Male","26-40","America","Bachelor","Full time","Once a day","MTurk",20,19,18,17,14,19,0.544172697039494
+"267","Male","26-40","Asia","Bachelor","Unemployed","Once a day","Microworkers",23,28,20,22,17,16,0.690401448561649
+"268","Male","26-40","America","Bachelor","Full time","Several times a day","MTurk",28,28,28,27,13,27,1
+"269","Female","18-25","Asia","Bachelor","Unemployed","Several times a day","Microworkers",28,28,28,26,13,26,0.736754446796632
+"270","Male","18-25","Asia","Bachelor","Full time","Once a day","MTurk",24,24,25,22,23,25,0.565994343163494
+"271","Male","26-40","Asia","Master","Full time","A few times a week","MTurk",22,20,19,19,18,19,0.738443392500079
+"272","Male","26-40","America","Bachelor","Full time","Once a day","MTurk",23,24,22,21,22,22,0.806013967340174
+"273","Female","Over 40","Asia","Bachelor","Unemployed","A few times a week","Microworkers",24,25,26,25,26,24,0.673210014367023
+"274","Male","26-40","America","Master","Full time","A few times a week","MTurk",17,15,19,18,17,16,0.742718872423573
+"275","Male","Over 40","America","Bachelor","Part time","A few times a week","MTurk",10,11,8,10,8,9,0.571344507057439
+"276","Female","26-40","America","Master","Part time","Several times a day","Microworkers",28,28,28,28,22,28,0.90929967221211
+"277","Female","Over 40","America","Bachelor","Full time","Several times a day","MTurk",21,24,25,24,23,23,0.658113883008419
+"278","Female","26-40","Asia","Master","Part time","Several times a day","Microworkers",25,21,24,23,17,24,0.868113883008419
+"279","Female","26-40","America","Bachelor","Part time","Several times a day","Microworkers",24,25,27,28,16,27,0.738443392500079
+"280","Male","26-40","America","Master","Full time","Once a day","MTurk",24,22,22,22,22,23,0.84347335475692
+"281","Male","18-25","America","High school","Full time","Several times a day","MTurk",26,18,22,19,8,23,1
+"282","Female","26-40","Asia","Bachelor","Part time","Several times a day","Microworkers",26,25,24,26,9,23,0.749056941504209
+"283","Female","18-25","Asia","High school","Unemployed","Several times a day","Microworkers",27,22,20,28,13,18,0.919522860933439
+"284","Male","18-25","Europe","Bachelor","Unemployed","Hardly ever","Microworkers",23,22,25,26,25,27,0.748600501560222
+"285","Female","18-25","Europe","Bachelor","Part time","Hardly ever","Microworkers",16,16,17,20,15,16,0.822109395153487
+"286","Male","18-25","Africa","Bachelor","Full time","A few times a week","Microworkers",25,19,26,28,9,22,0.9
+"287","Female","26-40","Asia","Bachelor","Part time","Once a day","Microworkers",25,25,26,19,10,24,0.804917960958861
+"288","Female","18-25","Asia","Bachelor","Part time","Several times a day","Microworkers",26,23,26,25,12,25,0.668793601114312
+"289","Male","26-40","Asia","Bachelor","Part time","Once a day","MTurk",22,21,22,23,23,22,0.918113883008419
+"290","Male","18-25","America","Bachelor","Unemployed","Several times a day","Microworkers",17,18,14,16,19,14,0.827905854299981
+"291","Male","18-25","Asia","Bachelor","Full time","Several times a day","MTurk",26,23,23,23,23,26,0.78
+"292","Male","26-40","America","Bachelor","Full time","Several times a day","MTurk",23,22,23,23,20,24,0.91
+"293","Female","18-25","Asia","Bachelor","Full time","Once a day","MTurk",22,22,23,21,23,18,0.751185789203691
+"294","Male","26-40","Asia","Bachelor","Full time","Once a day","MTurk",19,19,16,18,22,23,0.686491106406735
+"295","Male","26-40","Asia","Bachelor","Full time","Several times a day","Microworkers",28,27,26,26,12,23,0.926491106406735
+"296","Female","26-40","America","Master","Part time","Several times a day","Microworkers",28,28,28,28,17,28,0.748515331570067
+"297","Male","26-40","America","Bachelor","Full time","Once a day","MTurk",20,20,18,18,19,16,0.8
+"298","Male","18-25","Asia","Bachelor","Full time","Several times a day","MTurk",26,24,22,24,21,24,0.9
+"299","Female","26-40","Asia","Bachelor","Part time","Several times a day","Microworkers",18,13,17,14,14,15,0.789522860933439
+"300","Female","26-40","Asia","Master","Unemployed","Hardly ever","Microworkers",25,21,25,20,20,21,0.55358454218027
+"301","Female","26-40","America","Bachelor","Full time","Several times a day","MTurk",21,24,22,24,18,25,0.926491106406735
+"302","Male","26-40","America","Bachelor","Full time","Once a day","MTurk",26,24,25,24,25,26,0.863245553203368
+"303","Female","26-40","America","Bachelor","Full time","A few times a week","MTurk",26,24,27,26,26,24,0.627155895358281
+"304","Female","26-40","Asia","Bachelor","Part time","Once a day","Microworkers",24,22,26,22,17,25,0.819522860933439
+"305","Male","26-40","Asia","Master","Full time","A few times a week","MTurk",26,25,26,25,23,26,0.926491106406735
+"306","Female","Over 40","America","Bachelor","Full time","Once a day","MTurk",23,12,15,17,7,22,0.848515331570067
+"307","Male","26-40","Asia","Bachelor","Full time","Several times a day","MTurk",25,24,21,26,19,25,0.816892554968384
+"308","Male","26-40","Asia","Bachelor","Full time","Once a day","MTurk",26,25,24,23,23,21,0.437170824512628
+"309","Male","26-40","Europe","Bachelor","Part time","Several times a day","Microworkers",25,22,25,28,17,25,0.890401448561648
+"310","Male","26-40","America","Bachelor","Full time","Several times a day","MTurk",28,24,25,26,17,27,0.96
+"311","Male","26-40","America","Master","Full time","Once a day","MTurk",22,19,17,16,21,18,0.758113883008419
+"312","Male","26-40","Asia","Bachelor","Part time","Several times a day","Microworkers",25,24,23,22,14,17,1
+"313","Male","26-40","Europe","Master","Full time","Several times a day","MTurk",23,20,19,18,8,21,0.926491106406735
+"314","Male","18-25","Asia","Bachelor","Full time","Several times a day","Microworkers",18,16,16,17,17,16,1
+"315","Male","26-40","America","Bachelor","Part time","Several times a day","Microworkers",28,28,27,27,11,26,0.326491106406735
+"316","Male","18-25","Africa","Bachelor","Unemployed","Several times a day","Microworkers",24,24,27,27,14,26,0.93228756555323
+"317","Male","18-25","Asia","Bachelor","Full time","Several times a day","Microworkers",22,24,23,22,23,22,0.88347335475692
+"318","Female","26-40","Africa","Bachelor","Part time","Several times a day","Microworkers",26,25,28,28,14,18,0.919522860933439
+"319","Female","18-25","America","Bachelor","Unemployed","Several times a day","Microworkers",28,27,24,28,11,28,0.65298221281347
+"320","Female","26-40","America","High school","Full time","A few times a week","MTurk",19,19,19,18,20,16,0.816892554968384
+"321","Male","26-40","Asia","Bachelor","Full time","Once a day","MTurk",26,23,24,23,23,26,0.8
+"322","Male","18-25","Asia","Bachelor","Full time","Several times a day","Microworkers",28,28,28,28,19,28,0.91
+"323","Male","26-40","Africa","Bachelor","Part time","Once a day","Microworkers",21,28,24,23,22,28,0.958113883008419
+"324","Female","18-25","America","High school","Part time","Once a day","Microworkers",25,23,26,25,16,22,1
+"325","Male","26-40","Europe","Bachelor","Full time","Several times a day","Microworkers",23,23,24,26,17,26,0.926491106406735
+"326","Male","26-40","America","Bachelor","Part time","Several times a day","Microworkers",20,23,24,26,26,24,0.6
+"327","Male","18-25","Asia","Bachelor","Full time","Once a day","MTurk",22,20,25,22,20,21,0.68347335475692
+"328","Female","18-25","Asia","Master","Full time","Once a day","MTurk",21,23,22,22,24,25,0.669522860933439
+"329","Male","26-40","Asia","Bachelor","Full time","Several times a day","Microworkers",28,28,27,27,21,25,0.545618288746751
+"330","Female","26-40","Asia","Bachelor","Unemployed","Several times a day","Microworkers",25,20,25,25,15,23,0.784604989415154
+"331","Male","18-25","Asia","Bachelor","Full time","Several times a day","MTurk",22,21,23,20,25,18,1
+"332","Male","26-40","Europe","High school","Part time","Once a day","Microworkers",23,19,22,22,20,20,0.85373217175517
+"333","Male","18-25","Asia","Bachelor","Full time","Once a day","MTurk",26,23,25,25,25,27,0.501166336657696
+"334","Male","26-40","Asia","Bachelor","Full time","Several times a day","MTurk",23,23,22,23,20,21,0.763716136981801
+"335","Female","26-40","Asia","Master","Full time","Several times a day","Microworkers",26,26,25,22,23,24,0.638589110292205
+"336","Female","26-40","Europe","Bachelor","Full time","A few times a week","Microworkers",25,20,24,20,8,21,0.789522860933439
+"337","Female","26-40","Asia","Master","Part time","Once a day","Microworkers",24,25,24,24,21,24,0.911185789203691
+"338","Male","26-40","Asia","Bachelor","Full time","Once a day","MTurk",24,27,25,22,24,24,0.918113883008419
+"339","Female","18-25","Asia","Bachelor","Full time","Several times a day","MTurk",19,22,20,20,19,17,0.844604989415154
+"340","Female","26-40","Asia","Master","Full time","Several times a day","MTurk",26,23,22,15,12,20,0.818778671959965
+"341","Male","Over 40","Europe","High school","Full time","Several times a day","Microworkers",25,25,20,21,18,24,0.919522860933439
+"342","Male","26-40","Asia","Bachelor","Full time","Once a day","MTurk",21,22,21,22,20,22,0.877676895610426
+"343","Male","26-40","Asia","Bachelor","Part time","Several times a day","MTurk",26,25,26,27,27,26,0.425592894601845
+"344","Male","Over 40","America","Master","Full time","Several times a day","Microworkers",28,28,24,27,18,28,0.816892554968384
+"345","Male","26-40","Asia","Bachelor","Full time","Once a day","MTurk",21,20,19,20,20,20,0.926491106406735
+"346","Male","26-40","Asia","Bachelor","Full time","Several times a day","Microworkers",25,24,25,24,22,25,1
+"347","Male","26-40","America","Master","Full time","Once a day","Microworkers",24,21,22,20,22,22,0.93228756555323
+"348","Female","18-25","Asia","Master","Part time","Once a day","Microworkers",27,25,26,22,23,24,0.867413555220529
+"349","Male","26-40","Asia","Master","Part time","Several times a day","Microworkers",21,17,16,17,14,18,0.497254888883761
+"350","Female","18-25","Asia","High school","Part time","Once a day","Microworkers",26,22,21,22,22,19,0.666693685446068
+"351","Female","18-25","Asia","Master","Full time","Several times a day","Microworkers",27,26,26,26,14,26,0.787636743941858
+"352","Male","18-25","Asia","Bachelor","Full time","A few times a week","Microworkers",25,22,27,25,15,27,1
+"353","Female","18-25","Asia","Bachelor","Full time","Several times a day","MTurk",26,23,24,23,23,26,0.82
+"354","Female","26-40","Asia","Bachelor","Part time","Several times a day","Microworkers",24,24,23,23,17,23,0.548778671959965
+"355","Male","Over 40","Asia","Master","Part time","Several times a day","Microworkers",23,23,23,22,17,24,0.958113883008419
+"356","Female","26-40","Asia","Master","Part time","Several times a day","Microworkers",26,23,24,23,13,28,0.88347335475692
+"357","Male","18-25","Asia","Bachelor","Full time","Once a day","MTurk",25,23,24,24,24,24,1
+"358","Female","26-40","Asia","Bachelor","Part time","Several times a day","Microworkers",28,28,23,27,15,28,0.879056941504209
+"359","Female","26-40","Asia","Bachelor","Unemployed","Hardly ever","Microworkers",27,27,28,28,22,26,0.494112921194246
+"360","Female","18-25","Europe","Bachelor","Part time","A few times a week","Microworkers",21,22,22,22,23,22,1
+"361","Male","26-40","America","Master","Full time","A few times a week","MTurk",25,27,26,26,23,22,0.926491106406735
+"362","Female","26-40","America","Bachelor","Unemployed","Several times a day","Microworkers",28,28,24,28,14,24,0.758113883008419
+"363","Male","26-40","Asia","Bachelor","Part time","A few times a week","MTurk",24,22,25,24,24,22,0.791236577493503
+"364","Female","26-40","America","Bachelor","Full time","Once a day","MTurk",25,21,22,23,10,20,0.890401448561648
+"365","Female","18-25","Asia","Bachelor","Full time","Several times a day","MTurk",26,23,24,23,23,26,0.823245553203368
+"366","Female","26-40","Asia","Bachelor","Unemployed","Several times a day","Microworkers",26,26,26,27,13,27,0.618778671959965
+"367","Female","18-25","Africa","Bachelor","Part time","Several times a day","Microworkers",25,26,26,27,23,27,0.758113883008419
+"368","Female","18-25","Asia","High school","Unemployed","Several times a day","Microworkers",25,16,28,25,24,28,0.826491106406735
+"369","Male","26-40","Asia","Master","Part time","Once a day","Microworkers",26,24,25,26,26,26,0.702287565553229
+"370","Female","26-40","Asia","Master","Full time","Several times a day","Microworkers",28,28,28,28,16,28,0.709259520543542
+"371","Female","18-25","Asia","Bachelor","Part time","A few times a week","Microworkers",23,24,26,24,25,26,0.582768414136807
+"372","Female","26-40","Asia","< High school","Unemployed","Several times a day","Microworkers",24,24,24,20,12,22,0.958113883008419
+"373","Female","18-25","Asia","Master","Part time","Several times a day","Microworkers",26,24,23,22,26,25,0.465684457848514
+"374","Male","26-40","America","Master","Full time","Several times a day","Microworkers",27,26,25,26,11,24,1
+"375","Female","26-40","Asia","High school","Part time","Several times a day","Microworkers",28,28,27,27,12,28,0.911185789203691
+"376","Male","Over 40","Africa","Master","Full time","Several times a day","Microworkers",28,22,26,24,20,27,0.93228756555323
+"377","Female","18-25","America","Bachelor","Full time","A few times a week","MTurk",20,23,20,21,21,20,0.958113883008419
+"378","Female","18-25","Asia","Bachelor","Full time","Several times a day","Microworkers",28,28,28,28,22,28,0.805548047910945
+"379","Male","26-40","Europe","Bachelor","Unemployed","Several times a day","Microworkers",23,21,20,20,16,20,0.919522860933439
+"380","Female","18-25","Asia","Bachelor","Part time","Hardly ever","Microworkers",24,24,24,24,22,24,0.951185789203691
+"381","Male","18-25","Asia","High school","Unemployed","Several times a day","Microworkers",26,25,26,23,11,25,0.717442538768746
+"382","Female","26-40","America","High school","Unemployed","Several times a day","Microworkers",28,28,26,28,20,24,0.886491106406735
+"383","Female","18-25","Asia","High school","Unemployed","Several times a day","Microworkers",24,20,17,20,20,22,0.879056941504209
+"384","Male","18-25","Asia","Bachelor","Full time","Several times a day","MTurk",27,23,25,26,21,23,0.675055979690037
+"385","Male","18-25","America","High school","Full time","Once a day","Microworkers",26,26,27,22,20,27,0.474590060260807
+"386","Female","18-25","Europe","High school","Unemployed","Several times a day","MTurk",23,20,20,21,12,24,0.87
+"387","Male","Over 40","Europe","High school","Unemployed","Several times a day","Microworkers",22,23,21,24,8,18,0.795910330309342
+"388","Male","26-40","America","Bachelor","Full time","Once a day","MTurk",26,25,26,25,17,20,0.659056941504209
+"389","Male","18-25","Asia","Bachelor","Full time","Once a day","MTurk",24,23,23,22,20,20,0.495618288746752
+"390","Male","18-25","Asia","Bachelor","Full time","Once a day","MTurk",22,18,21,23,19,23,0.588047713906656
+"391","Female","26-40","Asia","Bachelor","Full time","Once a day","MTurk",20,19,19,21,18,22,0.715433191242781
+"392","Female","26-40","Asia","Bachelor","Part time","Hardly ever","Microworkers",25,17,26,26,18,26,0.846013967340175
+"393","Male","26-40","America","Bachelor","Full time","A few times a week","MTurk",18,17,9,13,14,9,0.29895799949571
+"394","Male","18-25","Asia","Bachelor","Full time","A few times a week","MTurk",25,24,25,25,26,22,0.588113883008419
+"395","Female","18-25","Asia","Bachelor","Unemployed","Once a day","Microworkers",26,26,27,26,8,22,0.789522860933439
+"396","Male","Over 40","Europe","< High school","Unemployed","Once a day","Microworkers",22,21,20,21,20,23,0.958113883008419
+"397","Female","26-40","Asia","Master","Full time","A few times a week","MTurk",18,17,23,19,15,21,0.726491106406735
+"398","Male","26-40","Asia","Bachelor","Full time","Once a day","MTurk",24,24,22,23,21,22,0.522024225163332
+"399","Female","Over 40","Asia","Bachelor","Unemployed","A few times a week","Microworkers",24,24,26,23,21,23,0.926491106406735
+"400","Female","18-25","Asia","Master","Full time","Several times a day","Microworkers",27,25,25,25,21,25,0.689021402667865
+"401","Male","18-25","Europe","High school","Part time","Several times a day","Microworkers",22,22,24,21,22,22,0.93228756555323
+"402","Female","18-25","Asia","High school","Full time","Several times a day","Microworkers",28,28,27,28,10,28,0.951185789203691
+"403","Female","26-40","America","Bachelor","Full time","Once a day","MTurk",26,25,25,23,21,24,0.846013967340175
+"404","Female","26-40","Asia","Master","Unemployed","Hardly ever","Microworkers",26,25,23,23,12,27,1
+"405","Female","26-40","America","High school","Part time","Once a day","Microworkers",28,27,25,25,16,26,0.863245553203368
+"406","Female","18-25","Asia","Bachelor","Unemployed","A few times a week","Microworkers",26,24,25,25,15,22,0.658113883008419
+"407","Female","26-40","Asia","Master","Part time","Once a day","Microworkers",25,26,23,24,21,20,0.519522860933439
+"408","Male","18-25","America","Bachelor","Full time","Once a day","Microworkers",26,25,24,26,7,25,0.918113883008419
+"409","Male","26-40","America","Bachelor","Full time","Once a day","MTurk",16,15,18,15,11,22,0.879056941504209
+"410","Male","26-40","Asia","Bachelor","Unemployed","Several times a day","Microworkers",26,22,24,25,18,24,0.858778671959965
+"411","Male","26-40","Africa","Bachelor","Part time","A few times a week","Microworkers",26,26,20,22,16,21,1
+"412","Female","26-40","Africa","Master","Part time","Several times a day","Microworkers",28,28,24,27,22,28,0.919522860933439
+"413","Male","18-25","America","Bachelor","Full time","Once a day","MTurk",14,17,20,19,11,18,0.774675230250961
+"414","Male","Over 40","America","Master","Full time","Once a day","MTurk",22,21,22,23,25,23,0.726491106406735
+"415","Female","18-25","America","High school","Unemployed","Several times a day","Microworkers",24,20,25,25,15,26,0.919522860933439
+"416","Male","Over 40","America","Bachelor","Full time","Several times a day","MTurk",26,24,25,26,23,25,0.782768414136807
+"417","Male","26-40","Asia","Bachelor","Unemployed","Several times a day","Microworkers",26,27,24,26,9,28,1
+"418","Male","18-25","Asia","High school","Unemployed","Several times a day","Microworkers",26,25,24,21,17,26,0.608443392500079
+"419","Male","26-40","Europe","High school","Unemployed","Several times a day","Microworkers",22,16,21,22,21,20,0.87
+"420","Female","18-25","Europe","High school","Part time","Several times a day","Microworkers",20,21,19,20,20,21,0.661185789203691
+"421","Male","18-25","America","Bachelor","Part time","Once a day","Microworkers",14,17,17,20,18,20,0.371359436211787
+"422","Female","26-40","Asia","Bachelor","Unemployed","Once a day","Microworkers",25,26,21,21,21,18,0.565055979690037
+"423","Female","Over 40","Asia","Bachelor","Full time","Once a day","Microworkers",28,28,24,26,13,25,0.508863841950119
+"424","Male","18-25","Asia","Bachelor","Full time","Several times a day","MTurk",26,23,24,23,23,26,0.594868329805051
+"425","Female","26-40","America","High school","Unemployed","Once a day","MTurk",16,13,18,20,15,19,0.951185789203691
+"426","Male","26-40","Asia","Bachelor","Full time","Several times a day","MTurk",22,21,22,21,23,20,0.754604989415154
+"427","Male","18-25","Asia","Bachelor","Full time","A few times a week","MTurk",24,23,24,23,23,19,0.879056941504209
+"428","Male","26-40","Asia","Bachelor","Full time","Once a day","MTurk",24,22,24,25,23,23,0.623066225667623
+"429","Female","18-25","Asia","Bachelor","Unemployed","Hardly ever","Microworkers",28,28,28,28,11,28,0.846013967340175
+"430","Male","26-40","America","Master","Full time","A few times a week","MTurk",22,21,22,23,20,22,0.699056941504209
+"431","Male","18-25","Europe","High school","Part time","Several times a day","Microworkers",25,28,26,26,12,27,0.877636743941858
+"432","Male","26-40","Asia","Bachelor","Full time","Several times a day","MTurk",15,12,11,9,10,19,0.719522860933439
+"433","Female","18-25","Asia","Bachelor","Full time","A few times a week","Microworkers",22,25,27,26,15,26,0.951185789203691
+"434","Male","26-40","Asia","Bachelor","Full time","Once a day","MTurk",19,19,19,23,19,18,0.7
+"435","Female","18-25","America","Bachelor","Unemployed","Several times a day","Microworkers",25,26,25,26,13,28,1
+"436","Female","26-40","Asia","Bachelor","Part time","Several times a day","Microworkers",27,26,28,27,22,28,0.781185789203691
+"437","Male","26-40","America","Bachelor","Full time","A few times a week","MTurk",22,24,21,22,18,22,0.958113883008419
+"438","Female","26-40","Asia","Bachelor","Full time","Once a day","MTurk",24,24,24,25,20,24,0.726491106406735
+"439","Male","18-25","America","High school","Unemployed","Several times a day","Microworkers",28,28,28,28,19,28,0.91
+"440","Male","18-25","Asia","Bachelor","Unemployed","A few times a week","Microworkers",27,27,28,27,17,25,0.919522860933439
+"441","Female","26-40","America","High school","Part time","Several times a day","Microworkers",23,20,27,26,16,21,0.93228756555323
+"442","Male","26-40","Asia","Bachelor","Full time","Once a day","MTurk",19,19,18,17,19,21,0.690084012854152
+"443","Female","26-40","Asia","Master","Part time","Several times a day","Microworkers",26,28,26,28,27,26,1
+"444","Female","Over 40","America","Bachelor","Full time","Several times a day","MTurk",28,12,27,28,10,27,0.93228756555323
+"445","Female","26-40","America","Master","Part time","Several times a day","Microworkers",28,28,28,28,22,28,0.875592894601845
+"446","Male","18-25","Asia","Bachelor","Full time","Several times a day","Microworkers",27,28,27,28,10,24,0.91
+"447","Female","26-40","America","High school","Full time","Several times a day","MTurk",25,24,24,27,9,26,0.958113883008419
+"448","Male","Over 40","America","Bachelor","Full time","Several times a day","MTurk",18,20,17,15,13,20,0.890401448561648
+"449","Female","26-40","Asia","Bachelor","Part time","Several times a day","Microworkers",25,20,24,16,10,22,0.93228756555323
+"450","Female","26-40","Asia","Bachelor","Full time","Several times a day","Microworkers",28,27,26,28,11,27,0.858778671959965
+"451","Male","18-25","Asia","Bachelor","Unemployed","Several times a day","Microworkers",23,24,22,23,26,25,0.87
+"452","Female","26-40","Asia","Master","Full time","Several times a day","Microworkers",23,23,20,20,18,21,0.837170824512628
+"453","Female","18-25","Asia","Bachelor","Part time","Several times a day","Microworkers",25,24,25,27,19,25,1
+"454","Female","18-25","Asia","Master","Full time","Once a day","Microworkers",27,28,26,24,11,23,0.65929967221211
+"455","Female","18-25","Asia","Bachelor","Unemployed","Several times a day","Microworkers",24,24,23,25,13,23,0.958113883008419
+"456","Male","26-40","Asia","Master","Full time","Several times a day","Microworkers",28,28,28,22,10,28,0.678426854552126
+"457","Female","26-40","Asia","Bachelor","Full time","Once a day","MTurk",26,28,26,27,26,24,0.615141149680191
+"458","Male","18-25","Asia","Master","Part time","Once a day","Microworkers",23,27,26,26,25,26,0.669458390065858
+"459","Male","26-40","America","Master","Full time","Once a day","MTurk",11,9,7,6,7,10,0.811344507057439
+"460","Male","26-40","America","Master","Full time","A few times a week","MTurk",26,27,26,25,24,26,1
+"461","Male","26-40","America","Master","Full time","A few times a week","MTurk",23,21,17,19,16,26,0.719522860933439
+"462","Male","26-40","Asia","Bachelor","Full time","A few times a week","Microworkers",24,23,21,25,25,22,0.890401448561648
+"463","Male","26-40","America","Bachelor","Full time","Once a day","MTurk",27,24,22,23,13,22,0.81298221281347
+"464","Female","26-40","Asia","Bachelor","Full time","A few times a week","MTurk",26,23,24,23,23,26,0.811846054763589
+"465","Female","26-40","Asia","Bachelor","Full time","Several times a day","Microworkers",24,24,23,25,11,24,0.90929967221211
+"466","Female","18-25","America","Bachelor","Part time","Several times a day","Microworkers",28,27,23,27,17,23,0.858113883008419
+"467","Female","26-40","Asia","Bachelor","Full time","Several times a day","Microworkers",25,24,24,24,24,24,0.951185789203691
+"468","Male","26-40","Asia","Master","Unemployed","Several times a day","MTurk",22,18,22,22,16,21,0.8
+"469","Female","26-40","Asia","Bachelor","Full time","Once a day","Microworkers",24,23,23,24,8,26,0.858778671959965
+"470","Female","18-25","Africa","Bachelor","Unemployed","Several times a day","Microworkers",26,16,28,24,20,26,1
+"471","Male","26-40","Asia","Master","Part time","Several times a day","Microworkers",27,27,28,27,23,28,0.564411889861064
+"472","Male","26-40","Asia","Bachelor","Full time","Once a day","MTurk",24,23,22,21,21,20,0.575006437976803
+"473","Female","26-40","Asia","Master","Unemployed","Once a day","Microworkers",25,24,23,18,16,23,0.91
+"474","Female","26-40","Asia","Bachelor","Part time","Hardly ever","Microworkers",27,28,28,28,19,28,0.695949496472593
+"475","Female","26-40","Asia","Master","Full time","Once a day","MTurk",26,24,23,24,23,25,0.579056941504209
+"476","Male","26-40","Europe","High school","Full time","Several times a day","MTurk",25,20,22,21,12,23,1
+"477","Male","26-40","Asia","Bachelor","Full time","Once a day","MTurk",25,25,25,22,26,25,0.846013967340175
+"478","Female","Over 40","America","Bachelor","Full time","A few times a week","MTurk",26,23,24,23,23,26,0.790401448561649
+"479","Male","26-40","Asia","Bachelor","Part time","Several times a day","Microworkers",27,26,24,25,25,26,0.74
+"480","Female","26-40","Europe","High school","Retired","Several times a day","MTurk",24,10,22,19,10,24,1
+"481","Male","26-40","America","Master","Full time","Once a day","MTurk",15,21,19,15,20,16,0.93228756555323
