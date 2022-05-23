@@ -7,3 +7,5 @@ Repository containing the dataset employed for the statistical analysis presente
 The dataset corresponds to the demographic data, HEXAD user type scores, and performance score (mean_score) for 481 crowdworkers who participated in a user study conducted via Microworkers and Amazon MTurk. The dataset is presented in a CSV file.
 
 The dataset only includes the data of crowdworkers who pass all the reliability checks described in the paper.
+
+Moved to: https://zenodo.org/record/6572600#.YotTJqhBxD8
